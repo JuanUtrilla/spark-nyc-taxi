@@ -1,0 +1,16 @@
+### Datos (no se suben al repo, se descargan/copian aparte)
+*.csv
+*.geojson
+*.zip
+
+### Entornos
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+### Notebooks con outputs pesados de pruebas locales
+Spark_t2_ejecutado.ipynb
+
+### Sistema
+.DS_Store
