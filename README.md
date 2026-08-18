@@ -20,6 +20,8 @@ El punto interesante del ejercicio 5: un *join* geoespacial hecho a mano en pand
 escala a millones de puntos. Sedona indexa los polígonos y distribuye la operación sobre
 el clúster, que es la diferencia entre un análisis que termina y uno que no.
 
+![Heatmap de demanda hora × día sobre 12,7 millones de viajes](img/heatmap_demanda_hora_dia.png)
+
 ## Datos
 
 Los ficheros de entrada **no se incluyen en el repositorio** por tamaño:
